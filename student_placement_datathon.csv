@@ -1,0 +1,201 @@
+student_id,cgpa,internships,projects,certifications,coding_skill,communication_skill,backlogs,aptitude_score,placement_status
+1,6.8,3,4,3,Beginner,Good,3,98,Not Placed
+2,9.56,3,3,0,Intermediate,Good,1,98,Placed
+3,8.51,2,5,4,Advanced,Average,4,88,Not Placed
+4,7.87,0,2,4,Advanced,Good,0,56,Not Placed
+5,5.75,3,3,1,Advanced,Good,0,49,Not Placed
+6,5.75,3,4,0,Advanced,Average,3,96,Not Placed
+7,5.28,1,1,1,Advanced,Good,0,94,Not Placed
+8,9.16,3,3,2,Beginner,Poor,0,88,Not Placed
+9,7.89,3,1,1,Advanced,Poor,3,86,Not Placed
+10,8.4,1,5,1,Advanced,Average,3,51,Not Placed
+11,5.1,2,2,4,Advanced,Average,4,55,Not Placed
+12,9.66,3,0,4,Advanced,Average,0,63,Placed
+13,9.0,1,2,4,Intermediate,Poor,0,58,Placed
+14,6.02,0,3,2,Beginner,Good,4,47,Not Placed
+15,5.87,2,1,4,Advanced,Poor,2,70,Not Placed
+16,5.88,0,1,0,Advanced,Average,2,60,Not Placed
+17,6.46,0,4,3,Advanced,Good,2,56,Not Placed
+18,7.52,1,1,0,Beginner,Good,4,62,Not Placed
+19,7.07,3,4,0,Intermediate,Poor,0,76,Placed
+20,6.4,1,5,4,Beginner,Average,4,93,Not Placed
+21,7.94,1,0,3,Intermediate,Poor,4,55,Not Placed
+22,5.67,1,3,3,Advanced,Good,2,45,Not Placed
+23,6.4,1,4,3,Advanced,Poor,1,47,Not Placed
+24,6.76,2,0,2,Beginner,Poor,0,64,Not Placed
+25,7.19,3,1,4,Beginner,Average,2,57,Not Placed
+26,8.77,0,1,3,Intermediate,Average,1,64,Not Placed
+27,5.96,0,0,2,Intermediate,Good,1,51,Not Placed
+28,7.47,3,1,1,Beginner,Poor,3,54,Not Placed
+29,7.84,0,5,1,Intermediate,Poor,0,98,Not Placed
+30,5.22,3,5,2,Beginner,Poor,1,65,Not Placed
+31,7.92,0,0,2,Intermediate,Good,2,80,Not Placed
+32,5.82,1,4,4,Beginner,Good,3,84,Not Placed
+33,5.31,0,4,4,Beginner,Average,0,65,Not Placed
+34,9.55,3,0,1,Beginner,Average,4,86,Not Placed
+35,9.64,3,4,3,Intermediate,Average,2,71,Placed
+36,8.88,3,4,1,Intermediate,Poor,1,49,Placed
+37,6.46,3,5,3,Intermediate,Poor,1,55,Not Placed
+38,5.47,3,4,3,Beginner,Average,2,46,Not Placed
+39,8.28,2,2,4,Intermediate,Poor,1,56,Placed
+40,7.11,2,3,0,Intermediate,Average,3,62,Not Placed
+41,5.59,0,1,0,Beginner,Good,0,65,Not Placed
+42,7.38,3,2,2,Advanced,Average,3,60,Not Placed
+43,5.17,0,4,4,Beginner,Good,1,61,Not Placed
+44,9.36,3,5,3,Intermediate,Poor,4,97,Not Placed
+45,6.24,3,0,0,Beginner,Average,0,46,Not Placed
+46,8.18,2,4,3,Advanced,Poor,0,53,Placed
+47,6.5,2,5,0,Beginner,Good,2,54,Not Placed
+48,7.5,1,3,0,Intermediate,Good,2,92,Placed
+49,7.62,2,4,0,Advanced,Good,4,46,Not Placed
+50,5.89,1,0,4,Intermediate,Poor,0,48,Not Placed
+51,9.65,1,5,1,Advanced,Poor,4,90,Not Placed
+52,8.72,1,5,3,Advanced,Poor,2,87,Placed
+53,9.51,1,5,4,Beginner,Poor,2,47,Not Placed
+54,9.3,1,3,4,Beginner,Good,0,89,Not Placed
+55,7.87,0,4,4,Intermediate,Good,3,98,Not Placed
+56,9.42,2,3,4,Beginner,Average,1,62,Not Placed
+57,5.42,1,1,4,Beginner,Average,2,68,Not Placed
+58,5.94,3,1,2,Advanced,Poor,2,57,Not Placed
+59,5.22,2,4,3,Beginner,Good,3,70,Not Placed
+60,6.56,2,3,4,Advanced,Good,3,69,Not Placed
+61,6.87,1,0,3,Advanced,Good,4,91,Not Placed
+62,6.3,0,5,2,Advanced,Average,4,78,Not Placed
+63,8.98,1,5,2,Intermediate,Average,1,74,Placed
+64,6.71,0,4,3,Intermediate,Good,1,57,Not Placed
+65,6.35,3,1,0,Intermediate,Good,0,98,Not Placed
+66,7.6,2,1,1,Advanced,Good,4,81,Not Placed
+67,5.68,3,5,0,Intermediate,Average,2,78,Not Placed
+68,8.85,0,4,0,Intermediate,Good,4,56,Not Placed
+69,5.36,0,3,0,Beginner,Good,2,53,Not Placed
+70,9.74,3,1,4,Intermediate,Poor,3,70,Not Placed
+71,8.71,0,3,2,Intermediate,Poor,4,63,Not Placed
+72,5.95,3,1,0,Advanced,Average,3,74,Not Placed
+73,5.03,2,1,2,Advanced,Good,1,83,Not Placed
+74,8.91,3,2,3,Advanced,Good,1,99,Placed
+75,8.39,2,1,1,Advanced,Poor,0,84,Placed
+76,8.5,3,0,3,Advanced,Average,4,73,Not Placed
+77,8.7,0,4,3,Advanced,Poor,3,42,Not Placed
+78,5.36,3,4,4,Intermediate,Poor,2,76,Not Placed
+79,6.72,0,3,1,Advanced,Poor,1,82,Not Placed
+80,5.56,3,1,3,Advanced,Poor,1,79,Not Placed
+81,9.14,3,0,3,Beginner,Good,2,65,Not Placed
+82,7.99,1,3,1,Intermediate,Good,3,94,Not Placed
+83,6.59,0,2,1,Intermediate,Poor,3,62,Not Placed
+84,5.31,1,3,3,Intermediate,Average,4,83,Not Placed
+85,6.49,0,3,1,Advanced,Average,4,78,Not Placed
+86,6.56,1,1,3,Advanced,Average,0,54,Not Placed
+87,8.5,2,2,3,Advanced,Average,1,95,Placed
+88,8.06,3,3,4,Beginner,Poor,4,88,Not Placed
+89,9.26,0,0,0,Advanced,Good,3,43,Not Placed
+90,7.27,0,0,3,Beginner,Average,2,68,Not Placed
+91,5.57,3,4,2,Intermediate,Poor,3,61,Not Placed
+92,8.42,0,2,0,Advanced,Average,1,64,Not Placed
+93,8.65,0,2,0,Beginner,Average,3,52,Not Placed
+94,7.69,1,4,0,Beginner,Poor,0,57,Not Placed
+95,8.7,0,3,4,Advanced,Good,1,72,Not Placed
+96,7.37,2,2,3,Intermediate,Good,2,55,Placed
+97,7.51,2,0,4,Intermediate,Poor,0,84,Placed
+98,7.05,3,0,3,Intermediate,Good,1,81,Placed
+99,5.12,0,1,4,Beginner,Poor,2,83,Not Placed
+100,5.52,3,2,4,Beginner,Poor,0,41,Not Placed
+101,5.15,2,3,2,Beginner,Poor,0,94,Not Placed
+102,8.05,0,4,4,Beginner,Good,1,74,Not Placed
+103,6.51,0,4,1,Intermediate,Poor,4,81,Not Placed
+104,7.44,3,3,2,Advanced,Average,0,73,Placed
+105,9.36,2,5,4,Beginner,Good,0,69,Not Placed
+106,6.2,0,1,0,Beginner,Good,2,98,Not Placed
+107,6.97,3,4,1,Intermediate,Good,3,94,Not Placed
+108,8.63,2,2,1,Advanced,Good,1,52,Placed
+109,6.1,3,1,1,Advanced,Average,1,52,Not Placed
+110,5.37,1,2,2,Intermediate,Good,4,57,Not Placed
+111,6.39,0,0,4,Intermediate,Good,4,71,Not Placed
+112,5.77,1,1,4,Advanced,Poor,1,71,Not Placed
+113,9.46,2,4,0,Beginner,Good,4,74,Not Placed
+114,8.88,1,1,0,Advanced,Average,2,98,Placed
+115,8.04,1,1,1,Intermediate,Average,1,78,Placed
+116,9.18,2,1,0,Beginner,Average,4,85,Not Placed
+117,8.86,3,5,2,Beginner,Average,1,91,Not Placed
+118,5.9,1,1,4,Intermediate,Good,3,68,Not Placed
+119,9.28,3,2,1,Intermediate,Good,0,88,Placed
+120,7.59,1,0,0,Intermediate,Average,1,68,Placed
+121,8.88,3,3,2,Advanced,Average,0,92,Placed
+122,9.3,2,1,2,Advanced,Good,4,83,Not Placed
+123,6.53,1,4,0,Beginner,Average,0,96,Not Placed
+124,5.53,2,1,4,Intermediate,Poor,1,55,Not Placed
+125,6.09,1,4,0,Beginner,Average,3,95,Not Placed
+126,7.05,2,2,1,Beginner,Average,4,83,Not Placed
+127,8.93,2,4,0,Beginner,Poor,1,86,Not Placed
+128,9.13,1,3,2,Beginner,Poor,4,96,Not Placed
+129,5.03,1,0,0,Intermediate,Good,2,49,Not Placed
+130,7.45,1,4,4,Beginner,Good,0,69,Not Placed
+131,7.0,0,4,3,Intermediate,Poor,2,64,Not Placed
+132,6.07,3,0,0,Intermediate,Poor,1,78,Not Placed
+133,5.58,0,3,4,Advanced,Good,3,59,Not Placed
+134,6.62,0,1,4,Intermediate,Average,4,44,Not Placed
+135,9.53,2,4,2,Advanced,Poor,0,40,Placed
+136,6.55,1,0,4,Intermediate,Good,4,69,Not Placed
+137,7.49,3,2,4,Intermediate,Average,1,88,Placed
+138,8.37,2,0,4,Intermediate,Poor,4,42,Not Placed
+139,6.75,0,2,4,Advanced,Average,0,84,Not Placed
+140,9.66,1,3,1,Advanced,Good,1,53,Placed
+141,9.62,2,1,1,Beginner,Poor,4,95,Not Placed
+142,6.21,1,0,2,Advanced,Average,3,69,Not Placed
+143,7.39,2,5,0,Advanced,Poor,1,89,Placed
+144,6.44,1,4,4,Advanced,Average,1,43,Not Placed
+145,6.37,0,3,0,Advanced,Good,3,57,Not Placed
+146,5.18,3,0,0,Beginner,Good,2,76,Not Placed
+147,7.93,0,4,2,Advanced,Poor,0,64,Not Placed
+148,7.41,3,0,4,Intermediate,Average,2,87,Placed
+149,5.25,1,2,4,Intermediate,Poor,4,40,Not Placed
+150,6.34,2,0,3,Advanced,Poor,3,92,Not Placed
+151,9.36,0,5,0,Advanced,Average,2,85,Not Placed
+152,6.15,3,0,0,Intermediate,Average,1,54,Not Placed
+153,5.7,0,0,1,Intermediate,Average,4,48,Not Placed
+154,7.35,3,5,3,Beginner,Good,4,54,Not Placed
+155,9.73,0,3,1,Intermediate,Poor,2,88,Not Placed
+156,6.16,3,0,1,Intermediate,Poor,2,96,Not Placed
+157,8.23,3,5,1,Advanced,Good,3,63,Not Placed
+158,8.66,1,4,2,Intermediate,Average,0,43,Placed
+159,6.14,3,2,2,Beginner,Good,2,51,Not Placed
+160,8.5,1,2,1,Intermediate,Good,2,98,Placed
+161,6.77,3,0,3,Advanced,Good,1,97,Not Placed
+162,8.04,2,3,0,Advanced,Poor,4,76,Not Placed
+163,8.04,2,3,3,Intermediate,Good,0,76,Placed
+164,7.57,2,4,4,Advanced,Poor,1,82,Placed
+165,5.43,3,0,2,Beginner,Poor,3,99,Not Placed
+166,9.01,1,2,0,Beginner,Poor,3,45,Not Placed
+167,6.54,1,3,0,Intermediate,Average,2,78,Not Placed
+168,5.9,3,0,4,Intermediate,Poor,2,95,Not Placed
+169,5.2,2,3,4,Intermediate,Poor,3,85,Not Placed
+170,7.84,2,5,1,Advanced,Average,2,63,Placed
+171,8.25,1,3,2,Beginner,Poor,0,50,Not Placed
+172,5.08,2,2,2,Beginner,Good,2,52,Not Placed
+173,7.46,0,1,3,Advanced,Good,4,73,Not Placed
+174,6.09,1,4,1,Beginner,Poor,2,64,Not Placed
+175,8.1,2,4,1,Intermediate,Average,1,46,Placed
+176,5.84,1,2,1,Intermediate,Good,0,91,Not Placed
+177,8.32,0,3,1,Intermediate,Average,1,43,Not Placed
+178,6.86,1,0,2,Beginner,Average,1,98,Not Placed
+179,9.5,1,3,2,Intermediate,Good,4,47,Not Placed
+180,5.66,1,2,1,Advanced,Average,0,59,Not Placed
+181,6.64,1,4,3,Advanced,Good,0,68,Not Placed
+182,5.54,0,3,0,Beginner,Average,0,93,Not Placed
+183,9.44,3,4,0,Advanced,Good,0,92,Placed
+184,9.21,1,0,3,Advanced,Poor,0,90,Placed
+185,6.24,1,4,1,Beginner,Good,4,84,Not Placed
+186,8.17,2,4,2,Intermediate,Good,2,85,Placed
+187,8.92,1,1,0,Intermediate,Good,1,49,Placed
+188,7.66,2,1,4,Intermediate,Good,0,82,Placed
+189,7.54,3,5,4,Beginner,Average,2,73,Not Placed
+190,6.16,0,1,3,Advanced,Poor,2,96,Not Placed
+191,5.45,0,4,1,Intermediate,Good,1,65,Not Placed
+192,9.31,3,2,0,Intermediate,Average,4,80,Not Placed
+193,9.32,0,4,1,Beginner,Poor,3,88,Not Placed
+194,8.04,3,2,0,Intermediate,Poor,3,97,Not Placed
+195,6.63,3,2,3,Beginner,Poor,2,42,Not Placed
+196,6.68,3,1,3,Advanced,Poor,1,95,Not Placed
+197,8.48,0,3,4,Beginner,Good,3,45,Not Placed
+198,9.31,2,0,1,Beginner,Good,2,44,Not Placed
+199,9.26,3,1,4,Beginner,Average,4,44,Not Placed
+200,8.74,1,1,1,Beginner,Average,3,93,Not Placed
